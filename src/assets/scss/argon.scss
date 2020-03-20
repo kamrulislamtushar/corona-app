@@ -98,3 +98,23 @@
 @import "custom/vendor/flatpickr.scss";
 @import "custom/vendor/headroom.scss";
 @import "custom/vendor/nouislider.scss";
+
+
+// Custom css
+.wizard-icon {
+  &:before {
+    color: #424141;
+  }
+}
+.btn-block {
+  width: 30%;
+}
+.text-align-webkit-center {
+  text-align: -webkit-center;
+}
+.section-profile-cover {
+  height: 350px;
+}
+.h-80vh {
+  height: 80vh;
+}
