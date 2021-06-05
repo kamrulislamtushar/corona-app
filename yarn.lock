@@ -8327,6 +8327,11 @@ vue-flatpickr-component@^8.1.1:
   dependencies:
     flatpickr "^4.6.1"
 
+vue-form-wizard@^0.8.4:
+  version "0.8.4"
+  resolved "https://registry.yarnpkg.com/vue-form-wizard/-/vue-form-wizard-0.8.4.tgz#ddf864c9709b7ba2a6323f59e5d6d17536b7800e"
+  integrity sha512-/Zk1+B7bz7qHFJ16mwu021lpPXWf/9Tlr2mTNG3J7M0Hdy3rgA802lWsbKYySns0B0qtsD8BYGjQ2Wyxgg+4uw==
+
 vue-functional-data-merge@^3.1.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/vue-functional-data-merge/-/vue-functional-data-merge-3.1.0.tgz#08a7797583b7f35680587f8a1d51d729aa1dc657"
@@ -8755,9 +8760,9 @@ write@^0.2.1:
     mkdirp "^0.5.1"
 
 ws@^6.0.0, ws@^6.2.1:
-  version "6.2.1"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-6.2.1.tgz#442fdf0a47ed64f59b6a5d8ff130f4748ed524fb"
-  integrity sha512-GIyAXC2cB7LjvpgMt9EKS2ldqr0MTrORaleiOno6TweZ6r3TKtoFQWay/2PceJ3RuBasOHzXNn5Lrw1X0bEjqA==
+  version "6.2.2"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-6.2.2.tgz#dd5cdbd57a9979916097652d78f1cc5faea0c32e"
+  integrity sha512-zmhltoSR8u1cnDsD43TX59mzoMZsLKqUweyYBAIvTngR3shc0W6aOZylZmq/7hqyVxPdi+5Ud2QInblgyE72fw==
   dependencies:
     async-limiter "~1.0.0"
 
